@@ -1,0 +1,27 @@
+this is the page where i will write my code before publishing it into the build and src 
+
+what is build??
+=> build is the folder where developers put the production ready output 
+
+what is src?
+=> src is the folder where developers put the production ready output code.
+
+to be noted:
+            src is always hidden when we provide the repo link via github
+
+
+what is repo?
+=> repo means short form of repository.
+
+
+repository means a file thats kept in the directory
+
+what is directory?
+=> directory is the folder where we keep the repository.
+
+
+for a file path:
+                /home/aswin/Projects/src/hello.cpp
+
+                hello.cpp is the repository 
+                and src is the directry where the source code is kept on.

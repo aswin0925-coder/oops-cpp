@@ -1,0 +1,28 @@
+ its all about the info for the directory information
+
+ so basically lets talk about each directory one by one
+
+ directory build:
+      it is nothing but if you find something thats okay to put in build but dont know right now then you can keep that product in this directory
+
+directory debug.build:
+      this drectory is the build for the debugging exercise that i will be doing from now on 
+
+directory debug.rough:
+      this is basically the first directory where i willl be doing all the debugging exercise first and if hats oksy then it will migrate into next directory if not then it will stay here 
+
+directory debug.src:
+      it is the must important directory cuz it contains all the src files for the debug.build directory  this means this is the main place where you will be able to find the source code for the debug.build directory
+
+directory oop.src:
+    this is the directory where you will find all the ource code for the oop exercise that i have done so far 
+
+directory oop.build:
+    in this directory you wll find all the build product for the oop.src directory
+
+directory src:
+    this is nothing but if yu find thats not complete but you have to keep it then its that folder you are looking for .
+
+
+
+
